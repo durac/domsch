@@ -1,7 +1,7 @@
 {
   "version": "2.0.2",
-  "name": "gatsby-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "name": "domsch",
+  "description": "Personal website of Dominik Schwarz",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -12,13 +12,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
-  "repository": "git+https://github.com/alxshelepenok/gatsby-starter-lumen.git",
+  "repository": "git+https://github.com/durac/domsch.git",
   "keywords": [
     "gatsby",
     "blog",
     "react",
-    "theme",
-    "starter"
+    "domsch",
+    "software developer",
+	"developer",
+	"frontend"
   ],
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",

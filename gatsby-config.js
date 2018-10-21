@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    url: 'https://domsch.me',
+    title: 'Dominik Schwarz',
+    subtitle: 'My personal website to share projects and maybe some thoughts.',
+    copyright: '© Dominik Schwarz. All rights reserved.',
     disqusShortname: '',
     menu: [
       {
@@ -13,20 +13,13 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/'
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Dominik Schwarz',
+      email: 'contact@domsch.me',
+      twitter: 'DomSch94',
+      github: 'durac'
     }
   },
   plugins: [
